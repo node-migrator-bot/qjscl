@@ -4,7 +4,7 @@
   "description": "Quick JSON Config Loader",
   "version": "0.0.1",
   "repository": {
-    "url": ""
+    "url": "https://github.com/sjsadowski/qjscl"
   },
   "main": "index.js",
   "engines": {
