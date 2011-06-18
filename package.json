@@ -2,10 +2,13 @@
   "author": "Stephen Sadowski",
   "name": "qjscl",
   "description": "Quick JSON Config Loader",
+  "keywords": ["config", "configure", "json"],
   "version": "0.0.1",
   "repository": {
+  	"type": "git",
     "url": "https://github.com/sjsadowski/qjscl"
   },
+  "directories": { "lib": "./lib/qjscl" },
   "main": "index.js",
   "engines": {
     "node": ">= 0.4.0"
